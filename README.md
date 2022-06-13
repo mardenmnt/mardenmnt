@@ -32,9 +32,9 @@
 
   ## Let's Connect
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thegeekyb0y) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityacodes)
-[![Website](https://img.shields.io/badge/Website-%231DA1F2.svg?logo=Website&logoColor=white)](https://mardenmnt.github.io)
+[![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?style=for-the-badge&logo=appveyor&color=white&logoColor=black)](https://instagram.com/thegeekyb0y) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=appveyor&color=white&logoColor=black)](https://linkedin.com/in/adityacodes)
+[![Website](https://img.shields.io/badge/Website-%231DA1F2.svg?style=for-the-badge&logo=appveyor&color=white&logoColor=black)](https://mardenmnt.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-%231DA1F2.svg?style=for-the-badge&logo=appveyor&color=white&logoColor=black)](mailto:marden.mnt@gmail.com)
 
   
