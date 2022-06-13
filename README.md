@@ -32,11 +32,17 @@
 
   ## Let's Connect
   
-<div> 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thegeekyb0y) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityacodes)
+[![Website](https://img.shields.io/badge/Website-%231DA1F2.svg?logo=Website&logoColor=white)](https://mardenmnt.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-%231DA1F2.svg?logo=Gmail&logoColor=white)](mailto:marden.mnt@gmail.com)
+  
+  
+<!--<div> 
   <a href="https://instagram.com/marden_mnt" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marden.mnt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mardenmnt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://mardenmnt.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 
  
-</div>
+</div>-->
