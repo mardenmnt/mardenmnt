@@ -1,6 +1,7 @@
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=mardenmnt&theme=algolia&hide_border=false) 
+
 <div align="center">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=mardenmnt&theme=algolia&hide_border=false) 
   <a href="https://github.com/mardenmnt">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mardenmnt&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mardenmnt&layout=compact&langs_count=7&theme=dark"/>
