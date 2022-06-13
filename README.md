@@ -32,8 +32,8 @@
 
   ## Let's Connect
   
-[![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?style=for-the-badge&logo=Instagram&color=white&logoColor=black)](https://instagram.com/thegeekyb0y) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&color=white&logoColor=black)](https://linkedin.com/in/adityacodes)
+[![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?style=for-the-badge&logo=Instagram&color=white&logoColor=black)](https://instagram.com/marden_mnt) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&color=white&logoColor=black)](https://linkedin.com/in/mardenmnt)
 [![Website](https://img.shields.io/badge/Website-%231DA1F2.svg?style=for-the-badge&logo=Website&color=white&logoColor=black)](https://mardenmnt.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-%231DA1F2.svg?style=for-the-badge&logo=Gmail&color=white&logoColor=black)](mailto:marden.mnt@gmail.com)
 
