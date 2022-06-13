@@ -20,22 +20,25 @@
   
   ## Languages and tools  </>
   
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Python](https://img.shields.io/badge/python-05122A?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-05122A.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-05122A.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-05122A.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-05122A.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-05122A.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-05122A.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-05122A.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-05122A.svg?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-05122A.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-05122A?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
   ## Let's Connect
   
-[![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?style=for-the-badge&logo=Instagram&color=white&logoColor=black)](https://instagram.com/marden_mnt) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&color=white&logoColor=black)](https://linkedin.com/in/mardenmnt)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/marden_mnt) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mardenmnt)
 [![Website](https://img.shields.io/badge/Website-%231DA1F2.svg?style=for-the-badge&logo=Website&color=white&logoColor=black)](https://mardenmnt.github.io)
-[![Gmail](https://img.shields.io/badge/Gmail-%231DA1F2.svg?style=for-the-badge&logo=Gmail&color=white&logoColor=black)](mailto:marden.mnt@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marden.mnt@gmail.com)
 
   
   
