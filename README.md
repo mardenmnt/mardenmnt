@@ -20,6 +20,7 @@
   
   ## Languages and tools  </>
   
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/python-05122A?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-05122A.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-05122A.svg?style=for-the-badge&logo=pandas&logoColor=white)
